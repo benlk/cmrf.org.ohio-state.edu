@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+Great+Primer+SC);
+
 a:hover{text-decoration:underline;}
 a{text-decoration:none; color:#8D0122;}
 body {
@@ -105,16 +107,29 @@ tr#body>td:first-child{
 }
 h1 {
   text-align: center;
-  font-family: Arial;
-  font-style: Italic;
-  color: #560007
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-weight: 400;
+  letter-spacing: 0.1em;
 }
 h2 {
   text-align: center;
-  font-family: Arial;
-  font-style: Italic;
-  color: #560007
+  font-family: 'IM Fell Great Primer SC', serif;
+  letter-spacing: 0.1em;
 }
+.antiqued {
+  font-family: 'IM Fell Great Primer SC', serif;
+}
+hr {
+  color: #999;
+  text-align: center;
+  font-family: 'IM Fell Great Primer SC', serif;
+  letter-spacing: 0.1em;
+  width: 40%;
+  border: 0;
+  border-top: 2px solid #999;
+}
+
+
 table.striped {
   border: none;
   border-spacing: 0px;
@@ -128,7 +143,7 @@ table.striped tr:nth-child(even) {
 table.striped td {
   text-align: left;
   vertical-align: top;
-  padding: 3px;
+  padding: 5px;
 }
 .two-column {
   clear: both;
@@ -157,4 +172,3 @@ table.striped td {
 .bg-grey {
   background: #ccc;
 }
-@media (max-width: 640px;

@@ -24,12 +24,12 @@
         </p>
 	
 	<p>
-	  Each year, the Medieval and Renaissance Faire brings merriment and revelry to the South Oval of The Ohio State University. For more than 30 years, we've filled the South Oval with dancing and swordplay, merchants and minstrels, acrobats and storytellers. Admission is completely free, and it's always a wonderful way to spend a spring-time Saturday afternoon. So, grab a freshly roasted turkey leg, don your most dazzling noble garb, strap on your trusty sword, or simply throw on a T-shirt and jeans and come see what we're all about.
+	  Each year, the Medieval and Renaissance Faire brings merriment and revelry to the South Oval of The Ohio State University. Since 1974, we've filled the South Oval with dancing and swordplay, merchants and minstrels, acrobats and storytellers. Admission is completely free, and it's always a wonderful way to spend a spring-time Saturday afternoon. So, grab a freshly roasted turkey leg, don your dazzling noble garb, strap on your trusty sword, or simply throw on a T-shirt and jeans and come see what we're all about!
 	</p>
 	<hr />
 	
 	<p>
-	  Admission is free.  The Faire will take place, rain or shine, in the humble, yet charming English village of Buck's Eye Hollow (also referred to as the South Oval of the Ohio State University). Daring duelists, talented musicians, and sundry acting troupes from throughout our great country have been assembled for your pleasure to perform their acts on more than seven stages across the grounds of the Faire. Additionally, a great number of fine merchants and craftsmen will also gather to the site, selling everything from weaponry  and handmade jewelry, to T-shirts and children's toys.
+	  Admission is free. Faire will take place, rain or shine, on the <a href="site.php">South Oval</a>. Daring duelists, talented musicians, and amazing acting troupes from across the land have been assembled for your pleasure to perform their acts on more than seven stages across the grounds of the Faire. Additionally, a great number of fine merchants and craftsmen will also gather to the site, selling everything from weaponry  and handmade jewelry, to T-shirts and children's toys.
 	</p>
 
 	<ul type=disc>
@@ -44,22 +44,23 @@
 	<h2><font color="#8D0122">Things to See and Do at the Renaissance Faire at OSU:</font></h2>
 	<table cellspacing=0 cellpadding=5 border=0 align="center">
 	  <tr>
-	    <td><img src="images/merchant.jpg" border=0 width="205" height="137"></td>
-	    <td valign=top><font size="+1"><b><a href="pdf/List.pdf">Merchants</a></b></font><br>
-	      Our Merchants sell everything from actual swords and chain mail armor, to handmade jewelry and children's fairy wings. Also, our handmade soaps and perfume oils make wonderful gifts for Mother's Day (May 9th). Click above for a list of this year's merchants and their wares.
+	    <td valign=top width="137px"><img src="images/performer.jpg" border=0 width="205" height="137"></td>
+	    <td valign=top><font size="+1"><b>Performers</b></font><br>
+	      With dashing swordfights, wandering minstrels, renditions of Shakespeare, daring acrobats, singing, dancing, comedy, drama, and Human Combat Chess, the Faire at OSU is a very difficult place to be bored.
+	    </td>
+	  </tr>
+	  
+	  
+	  <tr>
+	    <td width="137px"><img src="images/merchant.jpg" border=0 width="205" height="137"></td>
+	    <td valign=top><font size="+1"><b>Merchants</b></font><br>
+	      Our Merchants sell everything from actual swords and chain mail armor, to handmade jewelry and children's fairy wings. 
 	    </td>
 	  </tr>
 	
 	  <tr>
-	    <td valign=top><img src="images/performer.jpg" border=0 width="205" height="137"></td>
-	    <td valign=top><font size="+1"><b><a href="pdf/List.pdf">Performers</a></b></font><br>
-	      With dashing swordfights, wandering minstrels, renditions of Shakespeare, daring acrobats, singing, dancing, comedy, drama, and Human Combat Chess, the Faire at OSU is a very difficult place to be bored. Click above for this year’s performance schedule.
-	    </td>
-	  </tr>
-	
-	  <tr>
-	    <td valign=top><img src="images/game.jpg" border=0 width="205" height="137"></td>
-	    <td valign=top><font size="+1"><b><a href="pdf/List.pdf">Games & Historical Demonstrations</a></b></font><br>
+	    <td valign=top width="137px"><img src="images/game.jpg" border=0 width="205" height="137"></td>
+	    <td valign=top><font size="+1"><b>Games & Historical Demonstrations</b></font><br>
 	      Historical groups from around Ohio come to the Faire to bring the Renaissance alive. You can watch the blacksmith, learn to wield a pike at the german mercenary camp, and much more. Our non-historical games section includes such fun as NERO, where you may valiantly duel your friends with padded 'boffer' swords. Click above for a list of this year's games and demos.
 	    </td>
 	  </tr>
@@ -67,7 +68,7 @@
 	
 	<br>
 
-	<h3><font color="#8D0122">This Faire Was Brought to You By:</font></h3>
+	<h2>Faire Was Brought to You by:</h2>
 	<p>
 	  Many different OSU departments and organizations are represented at the Medieval and Renaissance Faire (for instance, the Pagan Student Organization offers free tarot readings, and the Arts and Sciences Council runs demonstrations of Renaissance board games). However, there are two OSU student organizations that work together throughout the year to create the Faire. The Council for the Medieval and Renaissance Faire organizes and funds the Faire, and the Guild of Medieval and Renaissance Performers teaches students period dances, music, history, stage combat and improv theater, and prepares a number of performances for the Faire.
 	</p>

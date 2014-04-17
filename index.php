@@ -32,11 +32,11 @@
 	
 	
 	<hr>
-	  <p class="center">If you're looking for the OSU students who form the cast of the Faire at OSU, try here:<br>
-	  <a href="http://guild.org.ohio-state.edu">The Medieval and Renaissance Performers Guild</a>. </p>
+	  <p class="center">Presented with generous assistance from the performers of:<br>
+	  <a href="http://guild.org.ohio-state.edu" class="antiqued bigger">The Medieval and Renaissance Performers Guild</a>. </p>
 	<hr>
 	
-	<p>The Council for the Medieval and Renaissance Faire is a student organization at The Ohio State University. We organize and run the Medieval and Renaissance Faire at Ohio State and the Madrigal Feast. The Council works hand in hand with the Medieval and Renaissance Performer's Guild. We welcome interested volunteers.</p>
+	<p >Do you want to get involved in future Council productions?</p>
 	
 	<p><!--<a href="performers.html">--><b><a href="performers.php">Performers:</a></b>
 	The Council hires outside performers, including singers, musicians, sword fighters, comedy acts, stunt acts, and many more. Ohio State students perform at Faire as well, including the Medieval and Renaissance Performer's Guild and the Society for Creative Anachronism. <br/>
@@ -54,7 +54,7 @@
 	The Faire Council also puts on an annual Madrigal Feast with the help of the Medieval and Renaissance Performer's Guild. This tradition started in winter 2002, and has been going strong since. <a href="http://guild.org.ohio-state.edu/">Guild</a> provides the performers, while Council organizes the site, food, ticket sales and seating. The Madrigal Feast is dinner theatre that sets the plot for Faire in an evening of period songs, dances, and dinner. Its location and date are subject to change each year. <br>
 	
       <hr/>
-		<p class="center"><a href="faire-archives.php">Catalog of past Faires</a></p>
+		<p class="center antiqued bigger"><a href="faire-archives.php">Catalog of past Faires</a></p>
 	  <hr/>
     </td>
   </tr>
